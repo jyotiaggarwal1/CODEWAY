@@ -1,1 +1,1 @@
-https://jyotiaggarwal1.github.io/CODEWAY/
+https://jyotiaggarwal1.github.io/CODEWAY/calculator
